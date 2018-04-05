@@ -1,0 +1,116 @@
+body {
+  min-height: 200px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+    .fit {
+      max-width: 100%;
+      max-height: 100%;
+      float: center;
+    }
+    .col-lg-4 {
+        background-color: transparent !important;
+        border-color: transparent !important;
+        text-align: left !important;
+    }
+    .col-md-8 {
+        background-color: transparent !important;
+        border-color: transparent !important;
+    }
+    .col-md-2 {
+        background-color: transparent !important;
+        border-color: transparent !important;
+    }
+    .col-md-12 {
+        background-color: transparent !important;
+        border-color: transparent !important;
+    }
+    .col-md-3 {
+        background-color: transparent !important;
+        border-color: transparent !important;
+    }
+    strong {
+        font-size: 20pt !important;
+    }
+    small {
+        font-size: 12pt !important;
+    }
+    hr {
+        margin: 5px 2px 5px 2px !important;
+    }
+    bold {
+        font-weight: bolder !important;
+    }
+    center {
+        font-size: 14pt !important;
+    }
+    .fa, .fa-stack { 
+        float: right !important;
+    }
+    big {
+        font-size: 22pt !important;
+    }
+    .text {
+        font-size: 18pt;
+    }
+    .panel-heading {
+      background-color: #007FFF !important;
+      color: #FFFFFF !important;
+    }
+    .navbar-default {
+      background-color: #007FFF !important;
+    }
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+h4 {
+  margin-top: 25px;
+}
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #eee;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid #ddd;
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/*
+ * Globals
+ */
+
+body {
+  color: #555;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #333;
+}
+
+
