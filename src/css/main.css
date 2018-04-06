@@ -1,12 +1,16 @@
-body {
-  min-height: 200px;
-  padding-left: 5%;
-  padding-right: 5%;
-}
+    body {
+      min-height: 200px;
+      padding-left: 5%;
+      padding-right: 5%;
+    }
     .fit {
       max-width: 100%;
       max-height: 100%;
       float: center;
+    }
+    .row {
+        padding-left: 2% !important;
+        padding-right: 2% !important;
     }
     .col-lg-4 {
         background-color: transparent !important;
@@ -53,64 +57,53 @@ body {
     .text {
         font-size: 18pt;
     }
-    .panel-heading {
-      background-color: #007FFF !important;
-      color: #FFFFFF !important;
+    .navbar-static-top {
+      margin-bottom: 19px;
     }
-    .navbar-default {
-      background-color: #007FFF !important;
+    
+    .container {
+      padding-right: 15px;
+      padding-left: 15px;
     }
-.navbar-static-top {
-  margin-bottom: 19px;
-}
-
-.container {
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
-h4 {
-  margin-top: 25px;
-}
-.row {
-  margin-bottom: 20px;
-}
-.row .row {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-[class*="col-"] {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #eee;
-  background-color: rgba(86,61,124,.15);
-  border: 1px solid #ddd;
-  border: 1px solid rgba(86,61,124,.2);
-}
-
-hr {
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
-
-/*
- * Globals
- */
-
-body {
-  color: #555;
-}
-
-h1, .h1,
-h2, .h2,
-h3, .h3,
-h4, .h4,
-h5, .h5,
-h6, .h6 {
-  margin-top: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
-  color: #333;
-}
+    
+    h4 {
+      margin-top: 25px;
+    }
+    .row {
+      margin-bottom: 20px;
+    }
+    .row .row {
+      margin-top: 10px;
+      margin-bottom: 0;
+    }
+    [class*="col-"] {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      background-color: #eee;
+      background-color: rgba(86,61,124,.15);
+      border: 1px solid #ddd;
+      border: 1px solid rgba(86,61,124,.2);
+    }
+    
+    hr {
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    
+    /*
+     * Globals
+     */
+    
+    h1, .h1,
+    h2, .h2,
+    h3, .h3,
+    h4, .h4,
+    h5, .h5,
+    h6, .h6 {
+      margin-top: 0;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      color: #333;
+    }
 
 

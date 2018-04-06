@@ -1,4 +1,4 @@
-# TruckersMP Status Project Version 2.0
+# TruckersMP Status Project Version 2.0.1
 
 This TruckersMP Status Project can be used in many different ways. It includes
 * Bootstrap 3
@@ -6,6 +6,7 @@ This TruckersMP Status Project can be used in many different ways. It includes
 * PHP
 * Font Awesome 4.7.1
 * Jquery
+* HTML
 
 ## Getting Started
 
@@ -25,9 +26,9 @@ Make sure all folders with the index.php are in the same directory.
 If not in same directory then change the url of the sources in the index.php file.  
 Make sure you did what was said in Getting Started.  
 
-### Version 2.0
+### Version 2.0.1
 
-This Project is currently on Version 2.0  
+This Project is currently on Version 2.0.1  
 
 Changelog:  
 v2.0
@@ -38,7 +39,18 @@ v2.0
 * Page now has fluid width and is now full width
 * Added version number to bottom of the page
 * The "api.sgtbreadstick.tk" is now the status URL for caching.
-* Now using cURL for better loading times.
+* Now using cURL for better loading times.  
+
+v2.0.1
+* Changed CSS to be accessed more easily
+* More organized sources
+* Meta Tags Added
+* customstyles.css Added for customisability 
+* All favicons for all devices
+* Supports Discord embeds
+* Code looks better
+* Added more padding for the status boxes
+* Fixed the fontawesome icon bug  
 
 ## License
 
