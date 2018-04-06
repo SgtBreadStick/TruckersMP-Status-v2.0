@@ -21,9 +21,9 @@
         <meta property="og:type" content="website"/>
         <meta property="og:site_name" content="TruckersMP Status"/>
         <meta property="og:image" content="https://api.sgtbreadstick.tk/img/TruckersMP-Square.png">
-        <meta property="og:description" content="TruckersMP Status v2.0.1"/>
+        <meta property="og:description" content="TruckersMP Status v2.1"/>
         <meta name="author" content="SgtBreadStick">
-        <meta name="description" content="TruckersMP Status v2.0.1">
+        <meta name="description" content="TruckersMP Status v2.1">
         
     </head>
     <body>
