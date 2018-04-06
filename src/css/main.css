@@ -3,6 +3,16 @@
       padding-left: 5%;
       padding-right: 5%;
     }
+    .author {
+        color: #376fcc !important;
+    }
+    .author:hover, .author:active, .author:focus {
+        color: #4285f4 !important;
+        text-decoration: none !important;
+    }
+    strong {
+        font-weight: 600 !important;
+    }
     .fit {
       max-width: 100%;
       max-height: 100%;
@@ -12,10 +22,11 @@
         padding-left: 2% !important;
         padding-right: 2% !important;
     }
-    .col-lg-4 {
+    .col-xl-4 {
         background-color: transparent !important;
         border-color: transparent !important;
         text-align: left !important;
+        line-height: 160%;
     }
     .col-md-8 {
         background-color: transparent !important;
@@ -37,10 +48,7 @@
         font-size: 20pt !important;
     }
     small {
-        font-size: 12pt !important;
-    }
-    hr {
-        margin: 5px 2px 5px 2px !important;
+        font-size: 14pt !important;
     }
     bold {
         font-weight: bolder !important;
@@ -48,17 +56,32 @@
     center {
         font-size: 14pt !important;
     }
-    .fa, .fa-stack { 
+    .fas { 
         float: right !important;
+        font-size: 25pt;
     }
     big {
         font-size: 22pt !important;
     }
     .text {
         font-size: 18pt;
+        font-weight: 400 !important;
+        margin-top: 5pt !important;
     }
     .navbar-static-top {
       margin-bottom: 19px;
+    }
+    .card-header {
+        font-size: 12pt !important;
+        background-color: #4285f4 !important;
+        color: #FFFFFF !important;
+    }
+    hr {
+        margin-bottom: 10px !important;
+    }
+    .card-body {
+        padding-top: 15px !important;
+        padding-bottom: 5px !important;
     }
     
     .container {
