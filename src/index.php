@@ -20,7 +20,7 @@
         <meta property="og:title" content="TruckersMP Status"/>
         <meta property="og:type" content="website"/>
         <meta property="og:site_name" content="TruckersMP Status"/>
-        <meta property="og:image" content="https://api.sgtbreadstick.tk/img/TruckersMP-Square.png">
+        <meta property="og:image" content="https://api.sgtbreadstick.uk/img/TruckersMP-Square.png">
         <meta property="og:description" content="TruckersMP Status v2.1"/>
         <meta name="author" content="SgtBreadStick">
         <meta name="description" content="TruckersMP Status v2.1">
@@ -36,7 +36,7 @@
                 <?php
             
                 $curl = curl_init();
-                curl_setopt($curl, CURLOPT_URL, "https://api.sgtbreadstick.tk/");
+                curl_setopt($curl, CURLOPT_URL, "https://api.sgtbreadstick.uk/");
                 curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
                 curl_setopt($curl, CURLOPT_TIMEOUT, 1);
                 curl_setopt($curl, CURLOPT_CONNECTTIMEOUT, 1);
